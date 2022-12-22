@@ -1,0 +1,55 @@
+{
+  "home": {
+    "eventImage": "https://www.dropbox.com/s/q252p7reyt4kmmq/event.jpg?dl=1",
+    "slideImages": [
+      "https://www.dropbox.com/s/xxi0xe2uq6wpgsm/slide-1.jpg?dl=1",
+      "https://www.dropbox.com/s/4yffmxlc7f4rh6c/slide-2.jpg?dl=1",
+      "https://www.dropbox.com/s/aon8rprag1h7hd2/slide-3.jpg?dl=1",
+      "https://www.dropbox.com/s/zh3d1twbgst4zuh/slide-4.jpg?dl=1"
+    ]
+  },
+  "link_docs": {
+    "topic": "https://docs.google.com/presentation/d/e/2PACX-1vROe8TOUAHyvG6Xh9XJLSH7iV7ONI3Q7qCd_V28DWh-S83w7UHvRzDRuBgL6gKNXg0OsI-XUQ0Oec8R/embed?start=true&loop=true&delayms=3000",
+    "intership": "https://docs.google.com/presentation/d/e/2PACX-1vQ4eYStW3I9HVmB90lPXjQUhU2ofHpsGnm7gGxWRyeT0-9__yV8BE2waiVMNI3WtGpPjeowryLC7GRZ/embed?start=true&loop=true&delayms=3000",
+    "project": "https://docs.google.com/presentation/d/e/2PACX-1vQ_nZvpXRHdc_gBHieogCZapD4wzFWPV0KkGlN1jqEzOXqodi6PcpiVCZS9Wb8TXvzShKjhYfH6GR6G/embed?start=true&loop=true&delayms=3000",
+    "team": "https://docs.google.com/presentation/d/e/2PACX-1vS8DMrCrOjIG3xcyp7nMlugr_F0-7AHuyY7IqUiEG5nvvAt8i5jIiIEDcC3ZpygvkJdJ6YNhNZUjhPl/embed?start=true&loop=true&delayms=3000"
+  },
+  "history": [
+    {
+      "id": 1,
+      "year": "2006",
+      "content": "Trường Đại học Công nghệ Thông tin, khoa Hệ Thống Thông tin được thành lập.",
+      "posTop": null
+    },
+    {
+      "id": 2,
+      "year": "2008-2009",
+      "content": "Xây dựng đề án trang bị phòng thí nghiệm khoa Hệ thống Thông tin",
+      "posTop": null
+    },
+    {
+      "id": 3,
+      "year": "2011-2012",
+      "content": "Phòng thí nghiệm Hệ thống Thông tin đi vào hoạt động.",
+      "posTop": null
+    },
+    {
+      "id": 4,
+      "year": "2013-2017",
+      "content": "TS. Ngô Thanh Hùng Phụ trách, 2 nghiên cứu viên và sinh viên tham gia nghiên cứu tại phòng thí nghiệm.",
+      "posTop": null
+    },
+    {
+      "id": 5,
+      "year": "2017-2020",
+      "content": "Phó GS Nguyễn Đình Thuân phụ trách.",
+      "posTop": null
+    },
+    {
+      "id": 6,
+      "year": "2021",
+      "content": "TS. Nguyễn Thanh Bình phụ trách.",
+      "posTop": null
+    }
+  ]
+}
